@@ -8,21 +8,19 @@
 6. The android app shows all the details and also generates the alerts (notification and sound) when the liquid inside the bag is about to drain.
 ## Circuit Diagram
 
-### Power Supply
-<img src="images/IOT_circuit_1.png"><img>
+### 1.Power Supply
+<img src="images/IOT_circuit_1.png" width="50%"><img>
 
-### MCU
-<img src="images/IOT_circuit_1.png"><img>
+### 2.MCU
+<img src="images/IOT_circuit_1.png" width="50%"><img>
 
-### Android App 
-<img src="images/app_img_1.png"><img>
-<img src="images/app_img_2.png"><img>
-<img src="images/alert_img.png"><img>
+## Android App 
+<img src="images/app_img_1.png" width="20%"><img> | <img src="images/app_img_2.png" width="20%"><img> | <img src="images/alert_img.png" width="20%"><img>
 
 * The application is developed using MIT app Inventor
 
-### Database
-<img src="images/database_img.png"><img>
+## Database
+<img src="images/database_img.png" width="25%"><img>
 
-### Result
-<img src="images/result_img.png"><img>
+## Result
+<img src="images/result_img.png" width="50%"><img>
