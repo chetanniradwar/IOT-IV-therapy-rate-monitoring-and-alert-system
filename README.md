@@ -9,20 +9,20 @@
 ## Circuit Diagram
 
 ### Power Supply
-<img src="/images/IOT_circuit_1"><img>
+<img src="images/IOT_circuit_1.png"><img>
 
 ### MCU
-<img src="main/images/IOT_circuit_1"><img>
+<img src="images/IOT_circuit_1.png"><img>
 
 ### Android App 
-<img src="./images/app_img_1"><img>
-<img src="images/app_img_2"><img>
-<img src="//images/alert_img"><img>
+<img src="images/app_img_1.png"><img>
+<img src="images/app_img_2.png"><img>
+<img src="images/alert_img.png"><img>
 
 * The application is developed using MIT app Inventor
 
 ### Database
-<img src="blob/main/images/database_img"><img>
+<img src="images/database_img.png"><img>
 
 ### Result
-<img src="blob/images/result_img"><img>
+<img src="images/result_img.png"><img>
