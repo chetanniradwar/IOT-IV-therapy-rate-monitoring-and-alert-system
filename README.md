@@ -9,7 +9,7 @@
 ## Circuit Diagram
 
 ### Power Supply
-<img src="images/IOT_circuit_1"><img>
+<img src="/images/IOT_circuit_1"><img>
 
 ### MCU
 <img src="images/IOT_circuit_1"><img>
