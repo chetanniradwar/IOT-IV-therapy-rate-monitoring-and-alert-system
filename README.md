@@ -13,10 +13,10 @@
 <img src="images/IOT_circuit_1.png" width="50%"><img>
 
 ### 2.MCU
-<img src="images/IOT_circuit_1.png" width="50%"><img>
+<img src="images/IOT_circuit_2.png" width="50%"><img>
 
 ## Android App 
-<img src="images/app_img_1.png" width="20%"><img> | <img src="images/app_img_2.png" width="20%"><img> | <img src="images/alert_img.png" width="20%"><img>
+<img src="images/app_img_1.png" width="20%"><img> | <img src="images/app_img_2.png" width="20%"><img> | <img src="images/alert_img.png" width="20%" height="100%"><img>
 
 * The application is developed using MIT app Inventor
 
